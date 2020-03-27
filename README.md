@@ -25,6 +25,6 @@ This project was developed with the following technologies:
 
 ## The Project
 
-**Be The Hero** is project that aims to connect people interested in helping ONG's with open campaigns.
+**Be The Hero** is project that aims to connect people interested in helping non-governmental organization with open campaigns.
 
 ---
