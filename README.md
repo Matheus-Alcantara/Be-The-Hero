@@ -1,4 +1,30 @@
-# Be-The-Hero
-This is my first app for full stack development where I am using React on Front-End, React Native on Mobile (tested only on android) and Node.js on Back-End.
-All the ideas, images and codes are from the "Semana OminiStack 11.0" from Rocketseat.
 
+
+<h2 align="center">
+
+
+  <br/>
+  Omnistack Week 11.0
+</h2>
+<br>
+
+## Technologies
+
+This project was developed with the following technologies:
+
+- [Node.js](https://nodejs.org/en/)
+- [React](https://reactjs.org)
+- [React Native](https://facebook.github.io/react-native/)
+- [Expo](https://expo.io/)
+
+## Extras:
+
+- Main Libs
+  - [Express](https://expressjs.com/pt-br/)
+  - [KnexJS](http://knexjs.org/)
+
+## The Project
+
+**Be The Hero** is project that aims to connect people interested in helping ONG's with open campaigns.
+
+---
